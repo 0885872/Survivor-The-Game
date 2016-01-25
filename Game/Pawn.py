@@ -1,6 +1,6 @@
-import pygame
-from Tile import *
-from Dice import *
+﻿import pygame#
+import Tile
+import Dice
 
 class Pawn():
     def __init__(self, color, name, pos, next_pos, lifepoints, energypoints, moves_left):

@@ -1,5 +1,5 @@
-﻿import pygame
-from Button import *
+﻿import pygame#
+import Button
 
 pygame.init()
 

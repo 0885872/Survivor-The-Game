@@ -1,9 +1,8 @@
-﻿import pygame
-
-from Game_menu import *
-from Game_rules import *
-from p_selection import *
-from Pawn import *
+﻿import pygame#
+import Game_menu
+import Game_rules
+import p_selection
+import Pawn
  
 pygame.init()
  

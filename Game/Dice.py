@@ -1,5 +1,8 @@
-﻿import random
+﻿import random#
 import pygame
+import Game
+
+gameDisplay = pygame.display.set_mode((display_width,display_height))
 
 
 class Dice:

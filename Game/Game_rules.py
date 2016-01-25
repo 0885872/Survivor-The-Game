@@ -1,5 +1,5 @@
-﻿import pygame
-from Button import *
+﻿import pygame#
+import Button
 
 def rtext(txt,offset):
   smallText = pygame.font.Font('freesansbold.ttf',20)
