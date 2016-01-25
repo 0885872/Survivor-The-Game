@@ -22,7 +22,15 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Button.py" />
+    <Compile Include="Dice.py" />
     <Compile Include="Game.py" />
+    <Compile Include="Game_loop.py" />
+    <Compile Include="Game_menu.py" />
+    <Compile Include="Game_rules.py" />
+    <Compile Include="Pawn.py" />
+    <Compile Include="p_selection.py" />
+    <Compile Include="Tile.py" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
