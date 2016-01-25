@@ -1,6 +1,9 @@
-import pygame
-import time
-import random
+﻿import pygame
+from Game_loop import *
+from Game_menu import *
+from Game_rules import *
+from p_selection import *
+from Pawn import *
  
 pygame.init()
  

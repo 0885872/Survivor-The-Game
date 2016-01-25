@@ -1,3 +1,5 @@
+﻿from Button import *
+
 class game_menu:
    
    def game_menu(self):
