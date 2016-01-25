@@ -2,7 +2,7 @@ import pygame
 from Tile import *
 from Dice import *
 
-class Car():
+class Pawn():
     def __init__(self, color, name, pos, next_pos, lifepoints, energypoints, moves_left):
       self.Color = color
       self.Name = name

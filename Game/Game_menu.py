@@ -2,7 +2,7 @@
 
 class game_menu:
    
-   def game_menu(self):
+   def __init__(self):
 
         next = "menu"
         while next == "menu":

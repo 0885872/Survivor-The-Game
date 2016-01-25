@@ -27,4 +27,3 @@ while running:
     screen.blit(bluepawn,(650,660))
     pygame.display.flip()
 
-    #dddd
