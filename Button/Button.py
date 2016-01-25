@@ -1,3 +1,5 @@
+﻿import pygame
+
 class button:
   
     def button(msg,x,y,w,h,ic,ac,action=None):

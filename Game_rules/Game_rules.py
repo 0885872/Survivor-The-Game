@@ -1,3 +1,6 @@
+﻿import pygame
+from Button import *
+
 def rtext(txt,offset):
   smallText = pygame.font.Font('freesansbold.ttf',20)
   TextSurf, TextRect = text_objects(txt, smallText)

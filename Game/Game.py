@@ -1,6 +1,9 @@
 ﻿import pygame
-import time
-import random
+from Game_loop import *
+from Game_menu import *
+from Game_rules import *
+from p_selection import *
+from Pawn import *
  
 pygame.init()
  
@@ -27,6 +30,4 @@ def quitgame():
   quit()
 
 while next == "menu":
-  print("1 komkommer is er 1 te veel.")
-
-  
+  print("2 komkommer is er 1 te veel.")
