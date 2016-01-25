@@ -26,3 +26,5 @@ while running:
     screen.blit(redpawn,(20,660))
     screen.blit(bluepawn,(650,660))
     pygame.display.flip()
+
+    #dddd
