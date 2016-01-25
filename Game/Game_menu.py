@@ -1,4 +1,4 @@
-﻿from Button import *
+﻿import Button
 
 class game_menu:
    

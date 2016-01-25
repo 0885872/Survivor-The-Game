@@ -1,2 +1,2 @@
-from Pawn import *
-from Button import *
+﻿import Pawn
+import Button
