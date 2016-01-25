@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Game", "Game\Game.pyproj", "{09443763-077F-4ED1-B3A1-024234D6CD1B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pawn", "Pawn\Pawn.pyproj", "{7D5D88C2-56BA-40C2-960B-52CE77B6FA98}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tile", "Tile\Tile.pyproj", "{236BF5C9-708B-436C-97CE-28D4E8EF3C6E}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dice", "Dice\Dice.pyproj", "{7F236B49-8FD3-4112-9B6B-F8EC86C02829}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Game_menu", "Game_menu\Game_menu.pyproj", "{B85EE22D-4B5E-4BC8-9CF6-9F5030B7C300}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Game_rules", "Game_rules\Game_rules.pyproj", "{42FD477B-1274-4AD0-B728-85DB55657885}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Game_loop", "Game_loop\Game_loop.pyproj", "{5CDC7D04-C1BB-4B82-8BC7-2BAA20F37F9C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "p_selection", "p_selection\p_selection.pyproj", "{2CFE51FC-5E7F-403D-93D8-750BAF9DB1CB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Button", "Button\Button.pyproj", "{75F5C1E4-9B19-458A-AC2A-2B71C799AF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09443763-077F-4ED1-B3A1-024234D6CD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09443763-077F-4ED1-B3A1-024234D6CD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5D88C2-56BA-40C2-960B-52CE77B6FA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5D88C2-56BA-40C2-960B-52CE77B6FA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236BF5C9-708B-436C-97CE-28D4E8EF3C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236BF5C9-708B-436C-97CE-28D4E8EF3C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F236B49-8FD3-4112-9B6B-F8EC86C02829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F236B49-8FD3-4112-9B6B-F8EC86C02829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85EE22D-4B5E-4BC8-9CF6-9F5030B7C300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85EE22D-4B5E-4BC8-9CF6-9F5030B7C300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FD477B-1274-4AD0-B728-85DB55657885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FD477B-1274-4AD0-B728-85DB55657885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDC7D04-C1BB-4B82-8BC7-2BAA20F37F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDC7D04-C1BB-4B82-8BC7-2BAA20F37F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFE51FC-5E7F-403D-93D8-750BAF9DB1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFE51FC-5E7F-403D-93D8-750BAF9DB1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F5C1E4-9B19-458A-AC2A-2B71C799AF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F5C1E4-9B19-458A-AC2A-2B71C799AF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
