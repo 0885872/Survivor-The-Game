@@ -30,4 +30,4 @@ def quitgame():
   quit()
 
 while next == "menu":
-  print("1 komkommer is er 1 te veel.")
+  print("2 komkommer is er 1 te veel.")

@@ -5,7 +5,7 @@ class Dice:
   def __init__(self, x, y):
     self.X = x
     self.Y = y
-
+    
   diceval = 0
 
   dice1 = pygame.image.load("Content\dice_1.png").convert_alpha()
