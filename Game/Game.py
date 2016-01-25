@@ -28,3 +28,5 @@ def quitgame():
 
 while next == "menu":
   print("1 komkommer is er 1 te veel.")
+
+  #Dit is een test
